@@ -101,7 +101,7 @@ class _CalendarState extends State<Calendar> {
             label: 'Planner',
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.person_pin),
+            icon: Icon(Icons.person_2),
             label: 'Profile',
           ),
         ],
